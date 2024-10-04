@@ -1,2 +1,2 @@
 # Stimulator
-Medical Project
+Bio Medical Project
