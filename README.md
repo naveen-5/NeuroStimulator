@@ -1,2 +1,2 @@
-# Stimulator
+# NeuroStimulator
 Bio Medical Project
